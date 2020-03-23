@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/web_resume/static/css/main.05c50ecf.chunk.css",
+    "main.js": "/web_resume/static/js/main.96ae0039.chunk.js",
+    "main.js.map": "/web_resume/static/js/main.96ae0039.chunk.js.map",
+    "runtime-main.js": "/web_resume/static/js/runtime-main.eb5ea97d.js",
+    "runtime-main.js.map": "/web_resume/static/js/runtime-main.eb5ea97d.js.map",
+    "static/js/2.facc7c67.chunk.js": "/web_resume/static/js/2.facc7c67.chunk.js",
+    "static/js/2.facc7c67.chunk.js.map": "/web_resume/static/js/2.facc7c67.chunk.js.map",
+    "index.html": "/web_resume/index.html",
+    "precache-manifest.2f215c2cdbc6d09e5a114e7ae52b6b6e.js": "/web_resume/precache-manifest.2f215c2cdbc6d09e5a114e7ae52b6b6e.js",
+    "service-worker.js": "/web_resume/service-worker.js",
+    "static/css/main.05c50ecf.chunk.css.map": "/web_resume/static/css/main.05c50ecf.chunk.css.map",
+    "static/js/2.facc7c67.chunk.js.LICENSE.txt": "/web_resume/static/js/2.facc7c67.chunk.js.LICENSE.txt",
+    "static/media/appleclone.jfif": "/web_resume/static/media/appleclone.edebc356.jfif",
+    "static/media/bcci_clone.jfif": "/web_resume/static/media/bcci_clone.bf28cefb.jfif",
+    "static/media/bookmyshow_clone.jfif": "/web_resume/static/media/bookmyshow_clone.0c6fb746.jfif",
+    "static/media/claro-agroAnalysis.jfif": "/web_resume/static/media/claro-agroAnalysis.0d0dffc8.jfif",
+    "static/media/claro-agroform.jfif": "/web_resume/static/media/claro-agroform.95234b15.jfif",
+    "static/media/claro-farmer.jfif": "/web_resume/static/media/claro-farmer.a750a569.jfif",
+    "static/media/claro-hc.jfif": "/web_resume/static/media/claro-hc.ce4f60b1.jfif",
+    "static/media/claro-home.jfif": "/web_resume/static/media/claro-home.a704be98.jfif",
+    "static/media/claro-iaas.jfif": "/web_resume/static/media/claro-iaas.2b76d4be.jfif",
+    "static/media/claro-mandiDashboard.jfif": "/web_resume/static/media/claro-mandiDashboard.2fb7aa5d.jfif",
+    "static/media/claro-rms.jfif": "/web_resume/static/media/claro-rms.3e0efe27.jfif",
+    "static/media/entry.jfif": "/web_resume/static/media/entry.fcc22b8f.jfif",
+    "static/media/gaming.jfif": "/web_resume/static/media/gaming.5d73efa1.jfif",
+    "static/media/gaurav.jpg": "/web_resume/static/media/gaurav.af9d8de2.jpg",
+    "static/media/logo.svg": "/web_resume/static/media/logo.5d5d9eef.svg",
+    "static/media/ogt.jfif": "/web_resume/static/media/ogt.5e4fe600.jfif",
+    "static/media/vendor.jfif": "/web_resume/static/media/vendor.4871068f.jfif",
+    "static/media/wynkClone.jfif": "/web_resume/static/media/wynkClone.6641804f.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb5ea97d.js",
+    "static/js/2.facc7c67.chunk.js",
+    "static/css/main.05c50ecf.chunk.css",
+    "static/js/main.96ae0039.chunk.js"
+  ]
+}
